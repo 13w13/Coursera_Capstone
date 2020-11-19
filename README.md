@@ -1,5 +1,4 @@
-# Clustering the Neighbourhoods of French cities
- : End of IBM DS Certificat Pro Project
+# Clustering the Neighbourhoods of French cities : End of IBM DS Certificat Pro Project
 ---
 Simon Weiss
 ~5 days development
