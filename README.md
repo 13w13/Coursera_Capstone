@@ -4,7 +4,7 @@
 Simon Weiss
 ~5 days development
 
-End of IBM DS Certificat Pro Project
+End of IBM DS Certificat Pro Project  
 Notebook link : https://13w13.github.io/IBM-Data-Science-Certificat-Pro/ 
 
 ## 1. Introduction
